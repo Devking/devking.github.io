@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://devking.github.io/blog</id>
-    <title>Do Better / Good Enough Blog</title>
+    <title>The Critical AI Textbook (CRAIT) Project Blog</title>
     <updated>2021-01-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://devking.github.io/blog"/>
-    <subtitle>Do Better / Good Enough Blog</subtitle>
+    <subtitle>The Critical AI Textbook (CRAIT) Project Blog</subtitle>
     <icon>https://devking.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Testing Things Out]]></title>
