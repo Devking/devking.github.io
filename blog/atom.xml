@@ -8,10 +8,10 @@
     <subtitle>The Critical AI Textbook (CRAIT) Project Blog</subtitle>
     <icon>https://devking.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Setting Things Up]]></title>
-        <id>setting-things-up</id>
-        <link href="https://devking.github.io/blog/setting-things-up"/>
+        <title type="html"><![CDATA[The First Step]]></title>
+        <id>the-first-step</id>
+        <link href="https://devking.github.io/blog/the-first-step"/>
         <updated>2021-01-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm giving Docusaurus 2 alpha a try!]]></summary>
+        <summary type="html"><![CDATA[Well, I finally did it. I finally decided to start working on my own AI textbook.]]></summary>
     </entry>
 </feed>

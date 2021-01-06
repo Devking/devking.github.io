@@ -8,11 +8,11 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Setting Things Up]]></title>
-            <link>https://devking.github.io/blog/setting-things-up</link>
-            <guid>setting-things-up</guid>
+            <title><![CDATA[The First Step]]></title>
+            <link>https://devking.github.io/blog/the-first-step</link>
+            <guid>the-first-step</guid>
             <pubDate>Tue, 05 Jan 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[I'm giving Docusaurus 2 alpha a try!]]></description>
+            <description><![CDATA[Well, I finally did it. I finally decided to start working on my own AI textbook.]]></description>
         </item>
     </channel>
 </rss>
