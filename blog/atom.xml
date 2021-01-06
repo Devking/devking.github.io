@@ -8,9 +8,9 @@
     <subtitle>The Critical AI Textbook (CRAIT) Project Blog</subtitle>
     <icon>https://devking.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Testing Things Out]]></title>
-        <id>testing-things-out</id>
-        <link href="https://devking.github.io/blog/testing-things-out"/>
+        <title type="html"><![CDATA[Setting Things Up]]></title>
+        <id>setting-things-up</id>
+        <link href="https://devking.github.io/blog/setting-things-up"/>
         <updated>2021-01-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I'm giving Docusaurus 2 alpha a try!]]></summary>
     </entry>

@@ -8,9 +8,9 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Testing Things Out]]></title>
-            <link>https://devking.github.io/blog/testing-things-out</link>
-            <guid>testing-things-out</guid>
+            <title><![CDATA[Setting Things Up]]></title>
+            <link>https://devking.github.io/blog/setting-things-up</link>
+            <guid>setting-things-up</guid>
             <pubDate>Tue, 05 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[I'm giving Docusaurus 2 alpha a try!]]></description>
         </item>
